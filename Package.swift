@@ -7,7 +7,7 @@ let package = Package(
     name: "GoogleMapsTileOverlay",
     platforms: [
       .macOS("10.13"),
-      .iOS("8.4"),
+      .iOS("9.0"),
       .tvOS("9.2")
     ],
     products: [
